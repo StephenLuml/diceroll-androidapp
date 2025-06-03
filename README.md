@@ -1,1 +1,1 @@
-Kotlinが気になって自分でちょっと勉強してサイコロを投げるAndroid Studio Applicationを作ってみました。
+Kotlinが気になって自分で勉強してサイコロを投げるAndroid Studio Applicationを作ってみました。
