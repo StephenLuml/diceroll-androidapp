@@ -1,0 +1,1 @@
+Kotlinが気になって自分でちょっと勉強してサイコロを投げるAndroid Studio Applicationを作ってみました。
